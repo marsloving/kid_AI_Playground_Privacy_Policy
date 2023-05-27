@@ -1,6 +1,3 @@
-# 使用streamlit建立網頁, 並且將隱私權政策內容(txet)放入網頁中
-
-
 import streamlit as st
 
 
